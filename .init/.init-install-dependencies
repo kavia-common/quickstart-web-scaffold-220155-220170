@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/quickstart-web-scaffold-220155-220170/backend_api"
+}
